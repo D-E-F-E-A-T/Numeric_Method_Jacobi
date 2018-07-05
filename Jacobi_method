@@ -39,6 +39,6 @@ while k != 4:
     
     k = k + 1
     
-print('''Resultados: {0:.2f}, {1:.2f}, {2:.2f}
+print('''Resultados: {0:.3f}, {1:.3f}, {2:.3f}
 Número de iterações: {3}
 '''.format(float(S[0]), float(S[1]), float(S[2]), k))
